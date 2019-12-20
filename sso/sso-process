@@ -1,35 +1,35 @@
-<mxfile host="www.draw.io" modified="2019-12-20T08:48:56.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="iVeozo2FPTIxPaIN0EBa" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-20T08:57:00.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7Fsa33T6V2h6eK0vnD3E" version="12.4.3" type="github" pages="1">
   <diagram id="6ZSZxyLMgHA7hARSjpsa" name="Page-1">
-    <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-1" value="SSO原理图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="120" height="60" as="geometry"/>
+          <mxGeometry x="64" y="-110" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.062;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-2" target="1vLf7K_KaRvvGZHzhhvn-9">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="30" height="60" as="geometry"/>
+          <mxGeometry x="80" y="-10" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-9" target="1vLf7K_KaRvvGZHzhhvn-11">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-9" value="业务" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="80" height="80" as="geometry"/>
+          <mxGeometry x="200" y="-10" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-11" target="1vLf7K_KaRvvGZHzhhvn-9">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-11" value="SSO登录项目" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="430" y="160" width="80" height="80" as="geometry"/>
+          <mxGeometry x="618" y="-10" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-17" value="未登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="158" width="50" height="20" as="geometry"/>
+          <mxGeometry x="425" y="-10" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-18" value="登录后跳转来源页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="226" width="110" height="20" as="geometry"/>
+          <mxGeometry x="388" y="50" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-22" value="SSO流程图（业务）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="20" y="320" width="120" height="60" as="geometry"/>
@@ -120,13 +120,13 @@
           <mxGeometry x="243.5" y="690" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-59" value="SSO流程图（项目）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="20" y="960" width="120" height="60" as="geometry"/>
+          <mxGeometry x="10" y="1220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-60" target="1vLf7K_KaRvvGZHzhhvn-66">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-60" value="业务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="274" y="960" width="120" height="60" as="geometry"/>
+          <mxGeometry x="264" y="1220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-66" target="1vLf7K_KaRvvGZHzhhvn-69">
           <mxGeometry relative="1" as="geometry"/>
@@ -135,108 +135,108 @@
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-66" value="是否登录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1050" width="101" height="80" as="geometry"/>
+          <mxGeometry x="270" y="1310" width="101" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-69" target="1vLf7K_KaRvvGZHzhhvn-74">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-69" value="SSO登录项目" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="271" y="1169" width="120" height="60" as="geometry"/>
+          <mxGeometry x="261" y="1429" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-72" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="387" y="1070" width="20" height="20" as="geometry"/>
+          <mxGeometry x="377" y="1330" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-73" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1130" width="20" height="20" as="geometry"/>
+          <mxGeometry x="320" y="1390" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-74" target="1vLf7K_KaRvvGZHzhhvn-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="1300"/>
-              <mxPoint x="440" y="1199"/>
+              <mxPoint x="430" y="1560"/>
+              <mxPoint x="430" y="1459"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-74" target="1vLf7K_KaRvvGZHzhhvn-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="331" y="1370" as="targetPoint"/>
+            <mxPoint x="321" y="1630" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-74" value="校验用户是否登录（loginCheck）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="1260" width="110" height="80" as="geometry"/>
+          <mxGeometry x="266" y="1520" width="110" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-76" target="1vLf7K_KaRvvGZHzhhvn-77">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-76" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="271" y="1380" width="120" height="60" as="geometry"/>
+          <mxGeometry x="261" y="1640" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-77" target="1vLf7K_KaRvvGZHzhhvn-76">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="1199" as="targetPoint"/>
-            <mxPoint x="386" y="1529" as="sourcePoint"/>
+            <mxPoint x="490" y="1459" as="targetPoint"/>
+            <mxPoint x="376" y="1789" as="sourcePoint"/>
             <Array as="points">
-              <mxPoint x="440" y="1529"/>
-              <mxPoint x="440" y="1199"/>
+              <mxPoint x="430" y="1789"/>
+              <mxPoint x="430" y="1459"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-77" value="是否登录成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="276" y="1490" width="110" height="80" as="geometry"/>
+          <mxGeometry x="266" y="1750" width="110" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-78" target="1vLf7K_KaRvvGZHzhhvn-94">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-78" value="跳转" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="501" y="1168" width="120" height="61" as="geometry"/>
+          <mxGeometry x="491" y="1428" width="120" height="61" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-89" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="1512" width="20" height="20" as="geometry"/>
+          <mxGeometry x="383" y="1772" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-90" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="261" y="1512" width="20" height="20" as="geometry"/>
+          <mxGeometry x="251" y="1772" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-91" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="386" y="1280" width="20" height="20" as="geometry"/>
+          <mxGeometry x="376" y="1540" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-92" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="1340" width="20" height="20" as="geometry"/>
+          <mxGeometry x="327" y="1600" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-94" target="1vLf7K_KaRvvGZHzhhvn-95">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-94" target="1vLf7K_KaRvvGZHzhhvn-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="990" as="targetPoint"/>
+            <mxPoint x="390" y="1250" as="targetPoint"/>
             <Array as="points">
-              <mxPoint x="670" y="1310"/>
-              <mxPoint x="670" y="990"/>
+              <mxPoint x="660" y="1570"/>
+              <mxPoint x="660" y="1250"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-94" value="是否有回调路径" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="1270" width="110" height="80" as="geometry"/>
+          <mxGeometry x="496" y="1530" width="110" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-95" value="SSO项目主页" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="508" y="1390" width="120" height="60" as="geometry"/>
+          <mxGeometry x="498" y="1650" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-100" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="620.5" y="1290" width="20" height="20" as="geometry"/>
+          <mxGeometry x="610.5" y="1550" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-101" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1350" width="20" height="20" as="geometry"/>
+          <mxGeometry x="560" y="1610" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-103" value="Tips:&lt;br&gt;1、SSO登录相关仅负责用户的单点登录，即仅负责登录权限问题，不负责菜单权限问题&lt;br&gt;2、SSO登录项目本身为前后端分离项目，即SSO的登录页为独立的前端项目&lt;br&gt;3、业务系统中需要关注的SSO相关接口为两个：&lt;br&gt;&amp;nbsp; &amp;nbsp; 1）退出接口&lt;br&gt;&amp;nbsp; &amp;nbsp; 2）SSO用户信息获取接口&lt;br&gt;4、业务系统自身的用户管理，不属于SSO管理，如有需求需要独立提供相关业务接口&lt;br&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;size=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="78" width="240" height="180" as="geometry"/>
+          <mxGeometry x="77" y="120" width="613" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-104" value="Tips:&lt;br&gt;1、URL、Cookie 中的 Session 信息的字段为&amp;nbsp;xxl_sso_sessionid&lt;br&gt;2、业务接口未登录统一拦截处理：&lt;br&gt;&amp;nbsp; &amp;nbsp; 1）在业务请求工具的 response 拦截处理&lt;br&gt;&amp;nbsp; &amp;nbsp; 2）业务接口的 data.status === 10012 为未登录&lt;br&gt;&amp;nbsp; &amp;nbsp; 3）跳转至登录地址&lt;br&gt;3、跳转至登录地址的跳转路径 URL 规则如下：&lt;br&gt;&amp;nbsp; &amp;nbsp; 1）设置sso相关callback地址：const redirectUri = `${SSO_DOMAIN}/bm/sso/callback?redirect_fe_url=${encodeURIComponent(location.href)}`;&lt;br&gt;&amp;nbsp; &amp;nbsp; 2）设置sso登录页面地址：window.location.href = `${SSO_URL}/user/login?redirect_url=${encodeURIComponent(redirectUri)}`;&lt;br&gt;&amp;nbsp; &amp;nbsp; 3）SSO_DOMAIN&amp;nbsp;地址为 SSO 的接口域名，根据环境匹配不同域名（如：&lt;a href=&quot;https://api-gateway.allinmd.cn/&quot;&gt;https://api-gateway.allinmd.cn/&lt;/a&gt;）&lt;br&gt;&amp;nbsp; &amp;nbsp; 4）SSO_URL 地址为 SSO 登录项目域名，根据环境匹配不同域名（如：&lt;a href=&quot;https://sso.allinmd.cn/&quot;&gt;https://sso.allinmd.cn/&lt;/a&gt;）" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;size=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="350" width="820" height="180" as="geometry"/>
+          <mxGeometry x="40" y="910" width="820" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-105" value="Tips:&lt;br&gt;1、SSO 项目本身涉及3个接口：&lt;br&gt;&amp;nbsp; &amp;nbsp; 1）登录接口&lt;br&gt;&amp;nbsp; &amp;nbsp; 2）登录校验接口&lt;br&gt;&amp;nbsp; &amp;nbsp; 3）登出接口&lt;br&gt;2、跳转至来源页地址的操作分为两种：&lt;br&gt;&amp;nbsp; &amp;nbsp;1）/bm/sso/callback 的跳转，归属于 server 负责&lt;br&gt;&amp;nbsp; &amp;nbsp;2）SSO 项目本身的跳转至来源页，是根据当前 URL 中是否存在&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(15 , 23 , 33) ; font-family: &amp;#34;helvetica neue&amp;#34; ; font-size: 14px&quot;&gt;redirect_url&amp;nbsp;&lt;/span&gt;是跳转至来源页还是SSO项目本身的主页" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;verticalAlign=top;size=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1580" width="680" height="140" as="geometry"/>
+          <mxGeometry x="120" y="1840" width="680" height="140" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
