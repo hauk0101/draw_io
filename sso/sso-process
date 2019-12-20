@@ -1,11 +1,11 @@
-<mxfile host="www.draw.io" modified="2019-12-20T08:57:00.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="7Fsa33T6V2h6eK0vnD3E" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-20T08:58:00.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="g_5dtygJdtzMLcpWy8NW" version="12.4.3" type="github" pages="1">
   <diagram id="6ZSZxyLMgHA7hARSjpsa" name="Page-1">
     <mxGraphModel dx="946" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-1" value="SSO原理图" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="64" y="-110" width="120" height="60" as="geometry"/>
+          <mxGeometry x="20" y="-110" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.062;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-2" target="1vLf7K_KaRvvGZHzhhvn-9">
           <mxGeometry relative="1" as="geometry"/>
@@ -120,7 +120,7 @@
           <mxGeometry x="243.5" y="690" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-59" value="SSO流程图（项目）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1220" width="120" height="60" as="geometry"/>
+          <mxGeometry x="20" y="1220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="1vLf7K_KaRvvGZHzhhvn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1vLf7K_KaRvvGZHzhhvn-60" target="1vLf7K_KaRvvGZHzhhvn-66">
           <mxGeometry relative="1" as="geometry"/>
