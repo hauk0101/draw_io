@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T13:36:40.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="4m_3gTMaVU5dYRUGrV76" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T13:39:14.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="a_dWHN1pDuF81hDO1VRs" version="12.5.1" type="github">
   <diagram id="41vpqgCopldQFb685hXc" name="Page-1">
     <mxGraphModel dx="946" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,8 +161,18 @@
         <mxCell id="uAyJtXls8UTxe9STqaxe-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAyJtXls8UTxe9STqaxe-123" target="uAyJtXls8UTxe9STqaxe-129">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="uAyJtXls8UTxe9STqaxe-153" value="更新历史消息&lt;br&gt;更新最新消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="uAyJtXls8UTxe9STqaxe-130">
+          <mxGeometry x="-0.0053" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uAyJtXls8UTxe9STqaxe-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uAyJtXls8UTxe9STqaxe-123" target="uAyJtXls8UTxe9STqaxe-126">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uAyJtXls8UTxe9STqaxe-152" value="更新最新消息&lt;br&gt;更新系统消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="uAyJtXls8UTxe9STqaxe-131">
+          <mxGeometry x="-0.3696" y="4" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uAyJtXls8UTxe9STqaxe-123" value="Dva数据&lt;br&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="770" y="900" width="200" height="100" as="geometry"/>
@@ -190,6 +200,12 @@
             <mxPoint x="1297" y="1344" as="sourcePoint"/>
             <mxPoint x="1297" y="30" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uAyJtXls8UTxe9STqaxe-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAyJtXls8UTxe9STqaxe-129" target="uAyJtXls8UTxe9STqaxe-155">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="uAyJtXls8UTxe9STqaxe-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uAyJtXls8UTxe9STqaxe-129" target="uAyJtXls8UTxe9STqaxe-156">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="uAyJtXls8UTxe9STqaxe-129" value="聊天信息展示" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="920" width="120" height="60" as="geometry"/>
@@ -238,6 +254,12 @@
         </mxCell>
         <mxCell id="uAyJtXls8UTxe9STqaxe-147" value="更新系统消息提醒" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1170" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="uAyJtXls8UTxe9STqaxe-155" value="展示系统消息提醒" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1040" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="uAyJtXls8UTxe9STqaxe-156" value="展示消息数据" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1040" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
